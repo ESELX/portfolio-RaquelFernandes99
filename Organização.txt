@@ -1,0 +1,41 @@
+Title: dimension 
+under title: A fully responsive site template designed by HTML5 UP (underline link) and released for free under the Creative Commons(underline link) license. 
+
+Title: Portefólio 
+under title: O meu nome é Raquel Fernandes e este é o meu portefólio digital. Para me conhecer melhor vão ao Sobre mim (underline link) ou através do meu Facebook (underline link)
+
+
+Intro:/  Introdução:
++FALAR DO MEU OBJETIVO COM ESTE PORTFOLIO DIGITAL+
+
+Work:/  Trabalhos-:
++
+FACULDADE:
+1ºano         - OAT
+	 -PROJ
+2ºano        -OAT
+	 -PROJ
+HOBBIES:
+fotografia
++
+
+About:/  Sobre mim:
++INFO SOBRE MIM+
+
+Contact/ Contactos:
+meu email e redes sociais
+_________________________________________
+1.Background:
+2.Profile pic:
+3.Work:
+	3.1.faculdade:
+		3.1.1- 1ºano:
+			OAT: 
+			PROJ
+		3.1.2- 2ºano:
+			OAT: 
+			PROJ
+	3.2.hobbies:
+		fotografias
+4.About:
+5.Contact:
