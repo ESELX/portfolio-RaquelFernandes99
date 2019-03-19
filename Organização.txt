@@ -7,6 +7,7 @@ under title: O meu nome é Raquel Fernandes e este é o meu portefólio digital. Pa
 
 Intro:/  Introdução:
 +FALAR DO MEU OBJETIVO COM ESTE PORTFOLIO DIGITAL+
+Olá! O meu nome é Raquel Fernandes e este é o meu portefólio! Aqui poderão encontrar os meus trabalhos feitos durante o meu percurso académico e profissional. Também estarão outros trabalhos em qual participei mas que não são da minha autoria. Sou estudante por isso estou sempre à procura de novos desafios! 
 
 Work:/  Trabalhos-:
 +
@@ -20,7 +21,13 @@ fotografia
 +
 
 About:/  Sobre mim:
-+INFO SOBRE MIM+
+Raquel Fernandes
+
+ 
+
+Nasci a 26 de Abril de 1999 e vivo em Sacavém, Loures. Estudo na Escola Superior de Educação de Lisboa, em Benfica, na área das Artes Visuais e Tecnologias.
+
+Tenho uma paixão pelas artes desde pequenina. Gosto de tudo a nível das artes: plásticas, visuais e gráficas. Adoro cinema, sou apaixonada por cães e o meu maior amor é as tatuagens.
 
 Contact/ Contactos:
 meu email e redes sociais
