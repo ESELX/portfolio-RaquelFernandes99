@@ -2,7 +2,7 @@ Template escolhido:
 	-Dimension by HTML5 UP (https://html5up.net/dimension)
 
 Porquê este template?
- - Eu queria que o meu portefólio fosse simples e quase como uma apresentação dos meus trabalhos académicos. Acho que o "Dimension" é simples/objetivo e no final vai de encontro à minha ideia de apresentação de portefólio.
+ -Eu queria que o meu portefólio fosse simples e quase como uma apresentação dos meus trabalhos académicos. Acho que o "Dimension" é simples/objetivo e no final vai de encontro à minha ideia de apresentação de portefólio.
 
 
 Plano de trabaho*:
@@ -10,10 +10,10 @@ Plano de trabaho*:
 2 de Abril		- Organização e escolha dos conteúdos em falta (trabalhos)
 
 5 a 7 de Abril	- Melhoramento da informação já feita
-		- Terminar a parte do HTML
+		-Terminar a parte do HTML
 
 15 de Abril 	- Começar, talvez, o CSS
-		- Organização das imagens e videos escolhidos para o portefólio
+		-Organização das imagens e videos escolhidos para o portefólio
 
 18 a 20 de Abril 	- Continuar a parte do CSS
 
